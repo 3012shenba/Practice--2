@@ -7,8 +7,13 @@ class Solution {
        while(child<g.length &&cookie<s.length)
        {
         if(g[child]<=s[cookie])
-            child++;
-        cookie++;
+        {           
+             child++;
+             cookie++;
+
+        }
+        else
+            cookie++;
        }
         return child;
     }
