@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/3012shenba/Practice--2/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/3012shenba/Practice--2/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/3012shenba/Practice--2/tree/master/0890-lemonade-change) |
+| [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/3012shenba/Practice--2/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/3012shenba/Practice--2/tree/master/0561-array-partition) |
+| [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -36,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/3012shenba/Practice--2/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
