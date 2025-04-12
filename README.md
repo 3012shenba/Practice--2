@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/3012shenba/Practice--2/tree/master/0035-search-insert-position) |
 | [0455-assign-cookies](https://github.com/3012shenba/Practice--2/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/3012shenba/Practice--2/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/3012shenba/Practice--2/tree/master/0890-lemonade-change) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/3012shenba/Practice--2/tree/master/3548-find-the-count-of-good-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/3012shenba/Practice--2/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
