@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/3012shenba/Practice--2/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/3012shenba/Practice--2/tree/master/0263-ugly-number) |
 | [2998-count-symmetric-integers](https://github.com/3012shenba/Practice--2/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/3012shenba/Practice--2/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
