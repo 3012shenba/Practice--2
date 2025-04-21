@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/3012shenba/Practice--2/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/3012shenba/Practice--2/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/1019-squares-of-a-sorted-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3012shenba/Practice--2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
 | ------- |
@@ -45,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/3012shenba/Practice--2/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/3012shenba/Practice--2/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/1019-squares-of-a-sorted-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3012shenba/Practice--2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/3012shenba/Practice--2/tree/master/0561-array-partition) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3012shenba/Practice--2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/3012shenba/Practice--2/tree/master/0001-two-sum) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3012shenba/Practice--2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3548-find-the-count-of-good-integers](https://github.com/3012shenba/Practice--2/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics
 |  |
