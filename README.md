@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/3012shenba/Practice--2/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/3012shenba/Practice--2/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/3012shenba/Practice--2/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/3012shenba/Practice--2/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/3012shenba/Practice--2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/3012shenba/Practice--2/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/3012shenba/Practice--2/tree/master/3548-find-the-count-of-good-integers) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3012shenba/Practice--2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/3012shenba/Practice--2/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/3012shenba/Practice--2/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/3012shenba/Practice--2/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/3012shenba/Practice--2/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/3012shenba/Practice--2/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3012shenba/Practice--2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/3012shenba/Practice--2/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/3012shenba/Practice--2/tree/master/0633-sum-of-square-numbers) |
 ## Simulation
 |  |
 | ------- |
