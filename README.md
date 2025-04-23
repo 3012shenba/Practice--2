@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/3012shenba/Practice--2/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/3012shenba/Practice--2/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/3012shenba/Practice--2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1500-count-largest-group](https://github.com/3012shenba/Practice--2/tree/master/1500-count-largest-group) |
 | [2998-count-symmetric-integers](https://github.com/3012shenba/Practice--2/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/3012shenba/Practice--2/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/3012shenba/Practice--2/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3012shenba/Practice--2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1500-count-largest-group](https://github.com/3012shenba/Practice--2/tree/master/1500-count-largest-group) |
 | [3548-find-the-count-of-good-integers](https://github.com/3012shenba/Practice--2/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics
 |  |
