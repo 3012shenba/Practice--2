@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/3012shenba/Practice--2/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/3012shenba/Practice--2/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/3012shenba/Practice--2/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/3012shenba/Practice--2/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/3012shenba/Practice--2/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/3012shenba/Practice--2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/3012shenba/Practice--2/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3012shenba/Practice--2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/3012shenba/Practice--2/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/3012shenba/Practice--2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/3012shenba/Practice--2/tree/master/0455-assign-cookies) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/3012shenba/Practice--2/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/3012shenba/Practice--2/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/3012shenba/Practice--2/tree/master/0917-boats-to-save-people) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/3012shenba/Practice--2/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/3012shenba/Practice--2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3012shenba/Practice--2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/3012shenba/Practice--2/tree/master/1500-count-largest-group) |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/3012shenba/Practice--2/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3012shenba/Practice--2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/3012shenba/Practice--2/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/3012shenba/Practice--2/tree/master/0633-sum-of-square-numbers) |
 ## Simulation
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/3012shenba/Practice--2/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
