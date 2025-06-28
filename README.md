@@ -125,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/3012shenba/Practice--2/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/3012shenba/Practice--2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/3012shenba/Practice--2/tree/master/0020-valid-parentheses) |
+| [1170-shortest-common-supersequence](https://github.com/3012shenba/Practice--2/tree/master/1170-shortest-common-supersequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/3012shenba/Practice--2/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/3012shenba/Practice--2/tree/master/0042-trapping-rain-water) |
+| [1170-shortest-common-supersequence](https://github.com/3012shenba/Practice--2/tree/master/1170-shortest-common-supersequence) |
 ## Stack
 |  |
 | ------- |
