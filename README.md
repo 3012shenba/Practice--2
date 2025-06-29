@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/3012shenba/Practice--2/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/3012shenba/Practice--2/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3012shenba/Practice--2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/3012shenba/Practice--2/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/3012shenba/Practice--2/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/3012shenba/Practice--2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/3012shenba/Practice--2/tree/master/0238-product-of-array-except-self) |
 | [2249-count-the-hidden-sequences](https://github.com/3012shenba/Practice--2/tree/master/2249-count-the-hidden-sequences) |
 ## Bit Manipulation
 |  |
