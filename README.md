@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/3012shenba/Practice--2/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/3012shenba/Practice--2/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/1019-squares-of-a-sorted-array) |
+| [2128-reverse-prefix-of-word](https://github.com/3012shenba/Practice--2/tree/master/2128-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/3012shenba/Practice--2/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/3012shenba/Practice--2/tree/master/0242-valid-anagram) |
 | [1170-shortest-common-supersequence](https://github.com/3012shenba/Practice--2/tree/master/1170-shortest-common-supersequence) |
+| [2128-reverse-prefix-of-word](https://github.com/3012shenba/Practice--2/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/3012shenba/Practice--2/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/3012shenba/Practice--2/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/3012shenba/Practice--2/tree/master/0682-baseball-game) |
+| [2128-reverse-prefix-of-word](https://github.com/3012shenba/Practice--2/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
