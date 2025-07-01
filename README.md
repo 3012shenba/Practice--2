@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/3012shenba/Practice--2/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/3012shenba/Practice--2/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/3012shenba/Practice--2/tree/master/0594-longest-harmonious-subsequence) |
+| [0682-baseball-game](https://github.com/3012shenba/Practice--2/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/3012shenba/Practice--2/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/3012shenba/Practice--2/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/1019-squares-of-a-sorted-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/3012shenba/Practice--2/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/3012shenba/Practice--2/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/3012shenba/Practice--2/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/3012shenba/Practice--2/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/3012shenba/Practice--2/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
