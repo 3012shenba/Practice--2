@@ -3,8 +3,7 @@ class Solution {
     {
         char wc[]=word.toCharArray();
         int st=0;
-        int end=-1;
-        
+        int end=-1;     
         for(int i=0;i<wc.length;i++)
         {
             if(ch==wc[i])
@@ -20,8 +19,7 @@ class Solution {
             wc[end]=temp;
             st++;
             end--;
-        }
-           
+        }         
         String coo=new String(wc);
         return coo;
     }
