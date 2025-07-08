@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/3012shenba/Practice--2/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/3012shenba/Practice--2/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/3012shenba/Practice--2/tree/master/0054-spiral-matrix) |
 | [0152-maximum-product-subarray](https://github.com/3012shenba/Practice--2/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3012shenba/Practice--2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/3012shenba/Practice--2/tree/master/0238-product-of-array-except-self) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/3012shenba/Practice--2/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/3012shenba/Practice--2/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/3012shenba/Practice--2/tree/master/0682-baseball-game) |
 ## Number Theory
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/3012shenba/Practice--2/tree/master/0594-longest-harmonious-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/3012shenba/Practice--2/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
