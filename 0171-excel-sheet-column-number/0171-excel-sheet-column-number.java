@@ -6,7 +6,6 @@ class Solution {
         {
             char c=columnTitle.charAt(i);
             res=res*26+(c-'A'+1);
-
         }
         return res;
     }
