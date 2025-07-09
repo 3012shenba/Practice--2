@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/3012shenba/Practice--2/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/3012shenba/Practice--2/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/3012shenba/Practice--2/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/3012shenba/Practice--2/tree/master/0263-ugly-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/3012shenba/Practice--2/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/3012shenba/Practice--2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/3012shenba/Practice--2/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/3012shenba/Practice--2/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/3012shenba/Practice--2/tree/master/0242-valid-anagram) |
 | [1170-shortest-common-supersequence](https://github.com/3012shenba/Practice--2/tree/master/1170-shortest-common-supersequence) |
 | [2128-reverse-prefix-of-word](https://github.com/3012shenba/Practice--2/tree/master/2128-reverse-prefix-of-word) |
