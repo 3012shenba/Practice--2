@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/3012shenba/Practice--2/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/3012shenba/Practice--2/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/3012shenba/Practice--2/tree/master/0633-sum-of-square-numbers) |
+| [0994-prison-cells-after-n-days](https://github.com/3012shenba/Practice--2/tree/master/0994-prison-cells-after-n-days) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/3012shenba/Practice--2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1500-count-largest-group](https://github.com/3012shenba/Practice--2/tree/master/1500-count-largest-group) |
 | [2998-count-symmetric-integers](https://github.com/3012shenba/Practice--2/tree/master/2998-count-symmetric-integers) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/3012shenba/Practice--2/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/3012shenba/Practice--2/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/3012shenba/Practice--2/tree/master/0917-boats-to-save-people) |
+| [0994-prison-cells-after-n-days](https://github.com/3012shenba/Practice--2/tree/master/0994-prison-cells-after-n-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/3012shenba/Practice--2/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3012shenba/Practice--2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/3012shenba/Practice--2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/3012shenba/Practice--2/tree/master/0594-longest-harmonious-subsequence) |
+| [0994-prison-cells-after-n-days](https://github.com/3012shenba/Practice--2/tree/master/0994-prison-cells-after-n-days) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3012shenba/Practice--2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/3012shenba/Practice--2/tree/master/1500-count-largest-group) |
 | [3548-find-the-count-of-good-integers](https://github.com/3012shenba/Practice--2/tree/master/3548-find-the-count-of-good-integers) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/3012shenba/Practice--2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
+| [0994-prison-cells-after-n-days](https://github.com/3012shenba/Practice--2/tree/master/0994-prison-cells-after-n-days) |
 ## Recursion
 |  |
 | ------- |
