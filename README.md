@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/3012shenba/Practice--2/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/3012shenba/Practice--2/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/3012shenba/Practice--2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/3012shenba/Practice--2/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/3012shenba/Practice--2/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3012shenba/Practice--2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/3012shenba/Practice--2/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/3012shenba/Practice--2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/3012shenba/Practice--2/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/3012shenba/Practice--2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/3012shenba/Practice--2/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/3012shenba/Practice--2/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/3012shenba/Practice--2/tree/master/0171-excel-sheet-column-number) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/3012shenba/Practice--2/tree/master/0054-spiral-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/3012shenba/Practice--2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
