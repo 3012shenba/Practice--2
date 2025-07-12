@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/3012shenba/Practice--2/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/3012shenba/Practice--2/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/3012shenba/Practice--2/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3012shenba/Practice--2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/3012shenba/Practice--2/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/3012shenba/Practice--2/tree/master/0455-assign-cookies) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/3012shenba/Practice--2/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/3012shenba/Practice--2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/3012shenba/Practice--2/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/3012shenba/Practice--2/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/3012shenba/Practice--2/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/3012shenba/Practice--2/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/3012shenba/Practice--2/tree/master/0242-valid-anagram) |
