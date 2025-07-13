@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3012shenba/Practice--2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2249-count-the-hidden-sequences](https://github.com/3012shenba/Practice--2/tree/master/2249-count-the-hidden-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/3012shenba/Practice--2/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/3012shenba/Practice--2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/3012shenba/Practice--2/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/3012shenba/Practice--2/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/3012shenba/Practice--2/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/3012shenba/Practice--2/tree/master/0917-boats-to-save-people) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/3012shenba/Practice--2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/3012shenba/Practice--2/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3012shenba/Practice--2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/3012shenba/Practice--2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice--2/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/3012shenba/Practice--2/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/3012shenba/Practice--2/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/3012shenba/Practice--2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/3012shenba/Practice--2/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
