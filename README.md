@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/3012shenba/Practice--2/tree/master/0504-base-7) |
 | [1170-shortest-common-supersequence](https://github.com/3012shenba/Practice--2/tree/master/1170-shortest-common-supersequence) |
 | [2128-reverse-prefix-of-word](https://github.com/3012shenba/Practice--2/tree/master/2128-reverse-prefix-of-word) |
+| [3396-valid-word](https://github.com/3012shenba/Practice--2/tree/master/3396-valid-word) |
 ## Dynamic Programming
 |  |
 | ------- |
