@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/3012shenba/Practice--2/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/3012shenba/Practice--2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/3012shenba/Practice--2/tree/master/2551-apply-operations-to-an-array) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/3012shenba/Practice--2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/3012shenba/Practice--2/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/3012shenba/Practice--2/tree/master/0152-maximum-product-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/3012shenba/Practice--2/tree/master/1170-shortest-common-supersequence) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/3012shenba/Practice--2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Stack
 |  |
 | ------- |
