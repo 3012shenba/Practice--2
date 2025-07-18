@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/3012shenba/Practice--2/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/3012shenba/Practice--2/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/3012shenba/Practice--2/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/3012shenba/Practice--2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/3012shenba/Practice--2/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3012shenba/Practice--2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/3012shenba/Practice--2/tree/master/0228-summary-ranges) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/3012shenba/Practice--2/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/3012shenba/Practice--2/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/3012shenba/Practice--2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/3012shenba/Practice--2/tree/master/0152-maximum-product-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/3012shenba/Practice--2/tree/master/1170-shortest-common-supersequence) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/3012shenba/Practice--2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
