@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/3012shenba/Practice--2/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/3012shenba/Practice--2/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3012shenba/Practice--2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/3012shenba/Practice--2/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/3012shenba/Practice--2/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/3012shenba/Practice--2/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/3012shenba/Practice--2/tree/master/0455-assign-cookies) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/3012shenba/Practice--2/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/3012shenba/Practice--2/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/3012shenba/Practice--2/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/3012shenba/Practice--2/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/3012shenba/Practice--2/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/3012shenba/Practice--2/tree/master/0682-baseball-game) |
 | [2128-reverse-prefix-of-word](https://github.com/3012shenba/Practice--2/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/3012shenba/Practice--2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/3012shenba/Practice--2/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
