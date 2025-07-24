@@ -216,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/3012shenba/Practice--2/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/3012shenba/Practice--2/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
