@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/3012shenba/Practice--2/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/3012shenba/Practice--2/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/3012shenba/Practice--2/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/3012shenba/Practice--2/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/3012shenba/Practice--2/tree/master/0231-power-of-two) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/3012shenba/Practice--2/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/3012shenba/Practice--2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
 | [0994-prison-cells-after-n-days](https://github.com/3012shenba/Practice--2/tree/master/0994-prison-cells-after-n-days) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/3012shenba/Practice--2/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/3012shenba/Practice--2/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
