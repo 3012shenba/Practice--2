@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/3012shenba/Practice--2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/3012shenba/Practice--2/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3012shenba/Practice--2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/3012shenba/Practice--2/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/3012shenba/Practice--2/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/3012shenba/Practice--2/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/3012shenba/Practice--2/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/3012shenba/Practice--2/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/3012shenba/Practice--2/tree/master/0455-assign-cookies) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/3012shenba/Practice--2/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/3012shenba/Practice--2/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/3012shenba/Practice--2/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/3012shenba/Practice--2/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/3012shenba/Practice--2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
